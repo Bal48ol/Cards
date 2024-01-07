@@ -39,7 +39,7 @@
 ## Используемые технологии и библиотеки
 - Язык программирования: Java
 - Android SDK: версия 30
-- Android Gradle плагины: версия 8.2.0
+- Android Gradle: версия 8.2.0
 - Архитектурный стиль: MVVM (Model-View-ViewModel)
 - Библиотека для работы с пользовательским интерфейсом: AndroidX AppCompat
 - Библиотека для работы с Material Design: Google Material Components

@@ -1,5 +1,57 @@
 # Tasky
 
+![Application Logo](logo.png)
+
+<h3>Tool Description:</h3>
+<p>The ideal tracker app in my opinion.</p>
+
+<h3>Features:</h3>
+<ul>
+<h3>All Tasks Page:</h3>
+<li>Task search;</li>
+<li>Selection of task status and tag;</li>
+<li>Creation of queues and assignment of tasks to them;</li>
+<li>Sorting by queues, statuses, date added, and tags.</li>
+
+<h3>Add/Edit Task Page:</h3>
+<li>Create task;</li>
+<li>View/Edit task;</li>
+<li>Speech recognition feature for automatically filling in card caption and description when creating it;</li>
+<li>Create audio notes;</li>
+<li>Task status change history.</li>
+
+<h3>Kanban Board Page:</h3>
+<li>Add tasks selectively to the Kanban board;</li>
+<li>Card navigation by status columns;</li>
+<li>Task status change;</li>
+<li>Kanban board visualization as a diagram;</li>
+<li>Remove tasks from the Kanban board from the "Closed" status column;</li>
+
+<h3>Profile Page:</h3>
+<li>Statistics on your tasks for a period;</li>
+<li>Setting initial queue on startup and sorting order view.</li>
+  
+<h3>Daily To-Do Tasks Page:</h3>
+<li>Add, delete, and edit to-do mini-cards;</li>
+<li>Add to-dos to any day from the calendar.</li>
+
+</ul>
+
+## Technologies and Libraries Used
+- Programming Language: Java 17
+- Android SDK (minSdk): Version 30
+- Android SDK (targetSdk): Version 34
+- Android Gradle: Version 8.2.2
+- Architectural Style: MVVM (Model-View-ViewModel)
+- UI Library: AndroidX AppCompat
+- Material Design Library: Google Material Components
+- Reactive Programming: RxJava 3
+- Data Storage Container: SQLite
+- Container Storage: Firebase Storage
+- Authorization: Firebase Auth
+
+# Задачи
+
 ![Логотип приложения](logo.png)
 
 <h3>Описание инструмента:</h3>

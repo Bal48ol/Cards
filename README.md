@@ -30,10 +30,6 @@
 <h3>Profile Page:</h3>
 <li>Statistics on your tasks for a period;</li>
 <li>Setting initial queue on startup and sorting order view.</li>
-  
-<h3>Daily To-Do Tasks Page:</h3>
-<li>Add, delete, and edit to-do mini-cards;</li>
-<li>Add to-dos to any day from the calendar.</li>
 
 </ul>
 
@@ -82,18 +78,14 @@
 <h3>Страница профиля:</h3>
 <li>Статистика по вашим задачам по периоду;</li>
 <li>Настройка стартовой очереди при запуске и вида сортировки.</li>
-  
-<h3>Страница дневных туду-задач:</h3>
-<li>Добавление, удаление и редактирование туду-мини-карточек;</li>
-<li>Добавление тудушек на любой день из календаря.</li>
 
 </ul>
 
 ## Используемые технологии и библиотеки
-- Язык программирования: Java 17
+- Язык программирования: Java 21
 - Android SDK (minSdk): версия 30
 - Android SDK (targetSdk): версия 34
-- Android Gradle: версия 8.2.2
+- Android Gradle: версия 8.3.0
 - Архитектурный стиль: MVVM (Model-View-ViewModel)
 - Библиотека для работы с пользовательским интерфейсом: AndroidX AppCompat
 - Библиотека для работы с Material Design: Google Material Components

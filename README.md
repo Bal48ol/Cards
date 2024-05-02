@@ -1,4 +1,4 @@
-# Tasks
+# Tasky
 
 ![Application Logo](logo.png)
 
